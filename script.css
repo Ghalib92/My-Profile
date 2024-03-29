@@ -22,9 +22,11 @@ h1{
 }
 .social-icon {
     text-align:right;
-   
-    
-     
+
+}
+.social-icon a{
+    margin-right: 20px;
+
 }
 .logo{
     
