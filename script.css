@@ -12,14 +12,43 @@ h1{
     
 }
 .section1{
+    text-align: left;
     
     
+}
+.section2{
+    text-align: left;
+    padding: 20px;
+    
+} 
+a{
+    text-decoration: none;
+    color: white;
+
 }
  
 .section3{
     text-align: left;
     
+    
 }
+.button {
+    text-align: left;
+}
+.card {
+    width: 300px;
+    border: 10px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    color:black;
+    
+    display: inline-block;
+
+
+}
+
+
 .social-icon {
     text-align:right;
 
@@ -32,7 +61,7 @@ h1{
     
     font-size: 2rem;
     font-weight: bolder;
-    text-align: left;
+    text-align: center;
     margin-top: 0rem;
     color: #37f126;
 }
