@@ -37,20 +37,24 @@ a{
 }
 .card {
     width: 300px;
-    border: 10px solid #ccc;
+    height: 200px;
+    border: 2px solid #ccc;
     border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background-color: #fff;
     color:black;
-    
+    padding: 20px;
+    margin: 20px 10px;
     display: inline-block;
+    
 
+   
 
 }
 
 
 .social-icon {
-    text-align:right;
+    text-align:center;
+    margin-left: 0;
 
 }
 .social-icon a{
